@@ -1,4 +1,5 @@
 package jaknauczycsieprogramowania;
+// interface
 
 public interface Drive {
 
