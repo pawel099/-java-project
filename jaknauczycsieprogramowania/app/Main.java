@@ -1,12 +1,14 @@
-package jaknauczycsieprogramowania;
+package jaknauczycsieprogramowania.app;
 
 public class Main {
 
 	public static void main(String[] args) {
 
-      Monitor monitor = new Monitor();
+		Monitor monitor = new Monitor();
 		System.out.println(monitor.getResolution());
-	    monitor.setLowResolution();
+		monitor.setLowResolution();
 		System.out.println(monitor.getResolution());
+
+
 	}
 }

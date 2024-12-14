@@ -1,4 +1,4 @@
-package jaknauczycsieprogramowania;
+package jaknauczycsieprogramowania.app;
 
 import java.util.ArrayList;
 import java.util.List;

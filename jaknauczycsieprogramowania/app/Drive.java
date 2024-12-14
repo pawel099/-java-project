@@ -1,4 +1,4 @@
-package jaknauczycsieprogramowania;
+package jaknauczycsieprogramowania.app;
 // interface
 
 public interface Drive {
@@ -6,12 +6,5 @@ public interface Drive {
 	 void addFile(File File) ;
 	 void listFiles();
 	 File findFile(String name);
-
-
-
-
-
-
-
 
 }

@@ -1,4 +1,4 @@
-package jaknauczycsieprogramowania;
+package jaknauczycsieprogramowania.app;
 
 import java.util.HashMap;
 import java.util.Map;

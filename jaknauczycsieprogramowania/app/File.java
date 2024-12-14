@@ -1,4 +1,4 @@
-package jaknauczycsieprogramowania;
+package jaknauczycsieprogramowania.app;
 
 public class File {
 
